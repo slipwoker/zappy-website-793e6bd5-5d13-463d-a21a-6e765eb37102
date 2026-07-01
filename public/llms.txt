@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://-793e6bd5.zappy5.app
+https://example.com
 הפלטפורמה השלמה ללימוד תורה ותפילה שמביאה את היהדות לחיים בכל רגע. הצטרפו למסע רוחני אינטראקטיבי, נגיש ומעורר השראה לכל הגילאים.
 
 ### לימוד תורה
-https://-793e6bd5.zappy5.app/torah-study
+https://example.com/torah-study
 שקעו בעולם של לימוד תורה אונליין עם תכנים מרתקים, שיעורים מותאמים אישית וחוויה לימודית סוחפת. התחילו ללמוד עוד היום והעשירו את נשמתכם.
 
 ### מדריכי תפילה
-https://-793e6bd5.zappy5.app/prayer-guides
+https://example.com/prayer-guides
 גלו מדריכי תפילה חדשניים שמחברים אתכם לעומק הכוונה. מסידור אינטראקטיבי ועד טיפים רוחניים, התפילה שלכם לא תהיה אותו דבר. היכנסו והתחילו להתפלל אחרת.
 
 ### חזון הפלטפורמה
-https://-793e6bd5.zappy5.app/platform-vision
+https://example.com/platform-vision
 חזון הפלטפורמה שלנו הוא להפוך כל רגע להזדמנות ללימוד תורה ותפילה. גלו איך אנחנו בונים עתיד רוחני נגיש, חדשני ומחובר יותר. בואו להיות חלק מהשינוי.
 
 ### צור קשר
-https://-793e6bd5.zappy5.app/contact
+https://example.com/contact
 יש שאלות על לימוד תורה, תפילה או הפלטפורמה? צרו קשר עוד היום וקבלו מענה אישי ומהיר. אנחנו כאן כדי ללוות אתכם בכל צעד בדרך הרוחנית שלכם.
 
 ### תודה שפניתם אלינו
-https://-793e6bd5.zappy5.app/thank-you
+https://example.com/thank-you
 תורה בכל רגע - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-793e6bd5.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-793e6bd5.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-793e6bd5.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-793e6bd5.zappy5.app/contact
-- Endpoint: https://-793e6bd5.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -82,6 +82,6 @@ Jewish Education & Religion
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-793e6bd5.zappy5.app/sitemap.xml
-- Robots: https://-793e6bd5.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-793e6bd5.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
