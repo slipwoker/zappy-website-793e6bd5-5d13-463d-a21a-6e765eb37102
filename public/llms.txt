@@ -1,0 +1,87 @@
+# תורה בכל רגע — Generative Engine Optimization Map
+
+> A comprehensive Jewish Torah and spirituality platform designed to bring Jewish learning and prayer to life at every moment. The platform envisions multiple interactive modules including Torah study, prayer guides, and many other Jewish content experiences. The site aims to be a rich, immersive digital destination for Jewish religious and educational engagement, with a strong emphasis on accessibility and interactivity.
+
+---
+
+## Pages
+
+### בית
+https://-793e6bd5.zappy5.app
+הפלטפורמה השלמה ללימוד תורה ותפילה שמביאה את היהדות לחיים בכל רגע. הצטרפו למסע רוחני אינטראקטיבי, נגיש ומעורר השראה לכל הגילאים.
+
+### לימוד תורה
+https://-793e6bd5.zappy5.app/torah-study
+שקעו בעולם של לימוד תורה אונליין עם תכנים מרתקים, שיעורים מותאמים אישית וחוויה לימודית סוחפת. התחילו ללמוד עוד היום והעשירו את נשמתכם.
+
+### מדריכי תפילה
+https://-793e6bd5.zappy5.app/prayer-guides
+גלו מדריכי תפילה חדשניים שמחברים אתכם לעומק הכוונה. מסידור אינטראקטיבי ועד טיפים רוחניים, התפילה שלכם לא תהיה אותו דבר. היכנסו והתחילו להתפלל אחרת.
+
+### חזון הפלטפורמה
+https://-793e6bd5.zappy5.app/platform-vision
+חזון הפלטפורמה שלנו הוא להפוך כל רגע להזדמנות ללימוד תורה ותפילה. גלו איך אנחנו בונים עתיד רוחני נגיש, חדשני ומחובר יותר. בואו להיות חלק מהשינוי.
+
+### צור קשר
+https://-793e6bd5.zappy5.app/contact
+יש שאלות על לימוד תורה, תפילה או הפלטפורמה? צרו קשר עוד היום וקבלו מענה אישי ומהיר. אנחנו כאן כדי ללוות אתכם בכל צעד בדרך הרוחנית שלכם.
+
+### תודה שפניתם אלינו
+https://-793e6bd5.zappy5.app/thank-you
+תורה בכל רגע - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-793e6bd5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-793e6bd5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-793e6bd5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-793e6bd5.zappy5.app/contact
+- Endpoint: https://-793e6bd5.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About תורה בכל רגע
+A comprehensive Jewish Torah and spirituality platform designed to bring Jewish learning and prayer to life at every moment. The platform envisions multiple interactive modules including Torah study, prayer guides, and many other Jewish content experiences. The site aims to be a rich, immersive digital destination for Jewish religious and educational engagement, with a strong emphasis on accessibility and interactivity.
+
+## Target Audience
+- יהודים דתיים ומסורתיים המעוניינים ללמוד תורה, להתפלל ולהתחזק ביהדות
+- לומדים יהודים דתיים
+- קבוצות נוער יהודיות
+- מנהיגי קהילות יהודיות
+
+## Industry
+Jewish Education & Religion
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-793e6bd5.zappy5.app/sitemap.xml
+- Robots: https://-793e6bd5.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-793e6bd5.zappy5.app/llms-full.txt
